@@ -23,4 +23,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Am1nn&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Am1nn&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=AsadovIbrahim&label=Profile%20Views&color=9&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Am1nn&label=Profile%20Views&color=9&pretty=false)](https://visitcount.itsvg.in)
