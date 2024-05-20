@@ -14,4 +14,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Am1nn&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Am1nn&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
+
+
+
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Am1nn&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
+
+
+
+
+
 [![](https://visitcount.itsvg.in/api?id=Am1nn&label=Profile%20Views&color=9&pretty=false)](https://visitcount.itsvg.in)
