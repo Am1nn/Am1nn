@@ -58,5 +58,5 @@
 <br/>
 
 
-[![](https://visitcount.itsvg.in/api?id=Am1nn&label=Profile%20Views&color=9&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Am1nn&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
