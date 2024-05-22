@@ -58,7 +58,5 @@
 <br/>
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Am1nn&label=Profile%20Views&pretty=false" />
-</a>
+
 
